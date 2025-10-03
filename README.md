@@ -17,7 +17,7 @@
   </style>
 </head>
 <body>
-  <h2>Quiz: Differentiability and Geometry of Functions of One Variable</h2>
+
   <form id="quizForm">
 
     <div class="question">
